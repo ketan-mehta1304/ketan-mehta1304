@@ -16,7 +16,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ketan-mehta1304" alt="visitor badge"/>
   <br>
 
-[![ketan's github stats](https://github-readme-stats.vercel.app/api?username=ketan-mehta1304)](https://github.com/ketan-mehta1304/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketan-mehta1304&layout=compact" />
 
