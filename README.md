@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 https://visitor-badge.glitch.me/badge?page_id=ketan.visitor-badge.issue.1
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+                
